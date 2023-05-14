@@ -1,3 +1,3 @@
 ## 0.0.1
 
-* TODO: Describe initial release.
+* Support `readFile` in mobile platform (Android, iOS) and fixed compile error for web platform.

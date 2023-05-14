@@ -1,7 +1,7 @@
 name: easy_file
-description: A new Flutter package project.
+description: Support `readFile` in mobile platform (Android, iOS) and fixed compile error for web platform.
 version: 0.0.1
-homepage:
+homepage: https://github.com/fighttech-vn/easy_file
 
 environment:
   sdk: '>=2.19.6 <3.0.0'

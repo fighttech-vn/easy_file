@@ -1,3 +1,3 @@
 library easy_file;
 
-export 'src/';
+export 'src/core_file.dart';
